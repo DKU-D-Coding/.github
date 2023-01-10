@@ -4,8 +4,8 @@
 
 ### Member
 
-|Mento|[박동학](https://github.com/DonghakPark)|[박민혁](https://github.com/m1nnh)||||
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|Mento|[황준일](https://github.com/JunilHwang)|[김채은](https://github.com/chchaeun)|[이호연](https://github.com/ho991217)|[이현](https://github.com/won983212)|[윤승환](https://github.com/YOONSEOUNGHWAN)|[최승용](https://github.com/SeungYongChoi)|
+|:---:|:---:|:---:|:---:|:---:|:---:||:---:|
 |Mentee|[황승환](https://github.com/xx0hn)|[김채은](https://github.com/chchaeun) |[최재민](https://github.com/dku19jam) |강세준|[주연](https://github.com/keamjyn) |
 | | 이정현 |[조연주](https://github.com/wormjoo)|[김정민](https://github.com/JeongMin-98) |[최지윤](https://github.com/J1Yun)|[허경환](https://github.com/hkh1284) |
 | | [목요빈](https://github.com/yobinmok) |[고산하](https://github.com/headF1rst) |[이준석](https://github.com/juy4556)  | [쥬원](https://github.com/dwd9999) |[최승용](https://github.com/SeungYongChoi) |
