@@ -1,42 +1,78 @@
-# Dev-StudyGroup
+# Dankook Univ. D-Coding Study Group
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-StudyGroup&count_bg=%235B5A59&title_bg=%23716A6A&icon=github.svg&icon_color=%23000000&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDKU-D-Coding&count_bg=%235B5A59&title_bg=%23716A6A&icon=github.svg&icon_color=%23000000&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Member
+## Member
 
-|Mento|[황준일](https://github.com/JunilHwang)|[김채은](https://github.com/chchaeun)|[이호연](https://github.com/ho991217)|[이현](https://github.com/won983212)|[윤승환](https://github.com/YOONSEOUNGHWAN)|[최승용](https://github.com/SeungYongChoi)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mentee|[황승환](https://github.com/xx0hn)|[김채은](https://github.com/chchaeun) |[최재민](https://github.com/dku19jam) |강세준|[주연](https://github.com/keamjyn) |
-| | 이정현 |[조연주](https://github.com/wormjoo)|[김정민](https://github.com/JeongMin-98) |[최지윤](https://github.com/J1Yun)|[허경환](https://github.com/hkh1284) |
-| | [목요빈](https://github.com/yobinmok) |[고산하](https://github.com/headF1rst) |[이준석](https://github.com/juy4556)  | [쥬원](https://github.com/dwd9999) |[최승용](https://github.com/SeungYongChoi) |
-| | [이서연](https://github.com/sylee723)  |[지민](https://github.com/ji-mango) |[으뉴](https://github.com/ChunEunyu)  | | |
+### Frontend React Library Study
+|Mento|[황준일](https://github.com/JunilHwang)||||
+|:---:|:---:|:---:|:---:|:---:|
+|Mentee|[김호준](https://github.com/hojunkim1)|[김채은](https://github.com/chchaeun)|[이호연](https://github.com/ho991217)|[전진우](https://github.com/Jun-Jinu)|
+
+### Frontend React Project Study
+
+|Mento|[김채은](https://github.com/chchaeun)|[이호연](https://github.com/ho991217)|[전진우](https://github.com/Jun-Jinu)||||
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Mentee|[김한수](https://github.com/gillyongs)|[이가은](https://github.com/gaeunnlee) |[이기윤](https://github.com/bubbletea03)|[이정현](https://github.com/JeonghyunLee99)|장건우|[조동준](https://github.com/resetmerlin)|
+
+### Backend Spring JPA Study
+
+|Mento|[이현](https://github.com/won983212)|[윤승환](https://github.com/YOONSEOUNGHWAN)|[최승용](https://github.com/SeungYongChoi)||||
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Mentee|[곽동윤](https://github.com/dyk000825)|[김성현](https://github.com/downshiftkor)|[김영오](https://github.com/youngoh0505)|[김한수](https://github.com/gillyongs)|[김홍덕](https://github.com/HongdeokKim)|[박세연](https://github.com/SayOny)|
+||[서지현](https://github.com/ji-hyeon97)|안찬웅|[윤태현](https://github.com/ji-hyeon97)|이동현|[이수정](https://github.com/sujeong11)|[이원규](https://github.com/OneK-2)|
+||[이재민](https://github.com/chocojaem)|[이재현](https://github.com/jjaebbi)|임강호|정유빈|조상현|차현민|
+||[최민서](https://github.com/choons1k2)|[최재민](https://github.com/dku19jam)|||||
 
 ## 0. 사전 준비
 
-### 👉[준비하러 가기](https://github.com/Dev-StudyGroup/.github/blob/main/Pre_Week.md)👈
+### 👉[준비하러 가기]()👈
 
 ## 1. Algorithm 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Dev-StudyGroup/Algorithm)
-![GitHub issues](https://img.shields.io/github/issues/Dev-StudyGroup/Algorithm)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Dev-StudyGroup/Algorithm)
+## Member
 
-### 💯👉[Let's go To Algo Repo](https://github.com/Dev-StudyGroup/Algorithm)👈💯
+### Algorithm Feedback
+
+### Algorithm Seminar
+
+### 💯👉There is 4 Level Algorithm👈💯
+👉👉[알고리즘 멘토가 뽑은 Level 1 백준 문제 Repo](https://github.com/DKU-D-Coding/Algorithm-Level-1) <br>
+👉👉[알고리즘 멘토가 뽑은 Level 2 백준 문제 Repo](https://github.com/DKU-D-Coding/Algorithm-Level-2) <br>
+👉👉[알고리즘 멘토가 뽑은 Level 3 백준 문제 Repo](https://github.com/DKU-D-Coding/Algorithm-Level-3) <br>
+👉👉[알고리즘 멘토가 뽑은 Level 4 백준 문제 Repo](https://github.com/DKU-D-Coding/Algorithm-Level-4) <br>
 
 ## 2. Tutoring 자료
 : 링킹되어 있지 않는 주차는 따로 자료를 제공하지 않습니다.
 
-👉👉[0주차 취업준비 개요 & git 사용법](https://github.com/Dev-StudyGroup/Tutoring/blob/main/1.Introduction%26git.pdf)  
-👉👉[1주차 코딩테스트 준비](https://github.com/Dev-StudyGroup/Tutoring/blob/main/2.Coding%20Test.pdf)  
-👉👉2주차 카카오 코딩테스트 해설 & 트리 설명  
-👉👉3주차 기업별 특징 설명 & 클린 코딩 by 민혁  
-👉👉[4주차 문제풀이&Union Find&위상정렬](https://github.com/Dev-StudyGroup/Tutoring/blob/main/4.%20union%20find%2C%20%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC.pptx)  
-👉👉[5주차 문제풀이&그리디, 백트래킹 & 면접 준비](https://github.com/Dev-StudyGroup/Tutoring/blob/main/5-1.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)  
-👉👉[6주차 문제풀이&운영체제](https://github.com/Dev-StudyGroup/Tutoring/blob/main/6.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2C%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.pdf)  
-👉👉[7주차 문제풀이&네트워크](https://github.com/Dev-StudyGroup/Tutoring/blob/main/7.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2C%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%2C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20-%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)  
-👉👉8주차 문제풀이&네트워크  
-👉👉[9주차 ML, MLOps & 알고리즘](https://github.com/Dev-StudyGroup/Tutoring/blob/main/9.%20%EB%B6%84%EC%84%9D%2C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf)  
-👉👉10주차 Java 가비지컬렉터, RDB  
+### Frontend React Library Study
+👉[Here is Study Link](https://github.com/DKU-D-Coding/js-study-make-framework-lv1)👈
+👉👉[1주차 ]()
+👉👉[2주차 ]()
+👉👉[3주차 ]()
+👉👉[4주차 ]()
+
+### Frontend React Project Study
+👉👉[1주차 ]()
+👉👉[2주차 ]()
+👉👉[3주차 ]()
+👉👉[4주차 ]()
+👉👉[5주차 휴식]()
+👉👉[6주차 ]()
+👉👉[7주차 ]()
+👉👉[8주차 ]()
+👉👉[9주차 ]()
+
+### Backend Spring JPA Study
+👉👉[1주차 ]()
+👉👉[2주차 ]()
+👉👉[3주차 ]()
+👉👉[4주차 ]()
+👉👉[5주차 휴식]()
+👉👉[6주차 ]()
+👉👉[7주차 ]()
+👉👉[8주차 ]()
+👉👉[9주차 ]()
 
 ## 3. 과제 진행현황
 
