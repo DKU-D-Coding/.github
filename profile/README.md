@@ -46,11 +46,16 @@
 : 링킹되어 있지 않는 주차는 따로 자료를 제공하지 않습니다.
 
 ### Frontend React Library Study
-👉[Here is Study Link](https://github.com/DKU-D-Coding/js-study-make-framework-lv1)👈
-👉👉[1주차 ]() <br>
-👉👉[2주차 ]() <br>
-👉👉[3주차 ]() <br>
-👉👉[4주차 ]() <br>
+👉[Here is Study Link](https://github.com/DKU-D-Coding/js-study-make-framework-lv1)👈 <br>
+👉👉[1주차 - 프레임워크에 대한 이해](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/step1.md) <br>
+👉👉[2주차 - Vanilla Javascript로 무작정 TodoList 만들기](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/step2.md) <br>
+👉👉[3주차 - Component 구성하기](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/step3.md) <br>
+👉👉[4주차 - 옵저버 패턴 학습](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/step4.md) <br>
+👉👉[5주차 휴식](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/vacation.md) <br>
+👉👉[6주차 - Store 직접 만들기](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/step5.md) <br>
+👉👉[7주차 - Router 직접 만들기](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/step6.md) <br>
+👉👉[8주차 - 패키지로 구성하기](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/step7.md) <br>
+👉👉[9주차 - 나만의 코드로 SPA 만들기](https://github.com/DKU-D-Coding/js-study-make-framework-lv1/blob/main/docs/step8.md) <br>
 
 ### Frontend React Project Study
 👉👉[1주차 ]() <br>
