@@ -23,8 +23,8 @@
 |Mento|[이현](https://github.com/won983212)|[윤승환](https://github.com/YOONSEOUNGHWAN)|[최승용](https://github.com/SeungYongChoi)||||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Mentee|[곽동윤](https://github.com/dyk000825)|[김성현](https://github.com/downshiftkor)|[김영오](https://github.com/youngoh0505)|[김한수](https://github.com/gillyongs)|[김홍덕](https://github.com/HongdeokKim)|[박세연](https://github.com/SayOny)|
-||[서지현](https://github.com/ji-hyeon97)|안찬웅|[윤태현](https://github.com/ji-hyeon97)|[이동현](https://github.com/dongsuu)|[이수정](https://github.com/sujeong11)|[이원규](https://github.com/OneK-2)|
-||[이재민](https://github.com/chocojaem)|[이재현](https://github.com/jjaebbi)|임강호|[정유빈](https://github.com/youbeen2798)|[조상현](https://github.com/Cho-SangHyun)|[차현민](https://github.com/gutanbug)|
+||[서지현](https://github.com/ji-hyeon97)|[안찬웅](https://github.com/AnChanUng)|[윤태현](https://github.com/YunTaeHyeon)|[이동현](https://github.com/dongsuu)|[이수정](https://github.com/sujeong11)|[이원규](https://github.com/OneK-2)|
+||[이재민](https://github.com/chocojaem)|[이재현](https://github.com/jjaebbi)|[임강호]((https://github.com/limkangho)|[정유빈](https://github.com/youbeen2798)|[조상현](https://github.com/Cho-SangHyun)|[차현민](https://github.com/gutanbug)|
 ||[최민서](https://github.com/choons1k2)|[최재민](https://github.com/dku19jam)|||||
 
 ## 0. OT(오리꽥꽥앤테이션)
@@ -51,10 +51,10 @@
 
 ### Algorithm Seminar
 
-|Leader|[이민석](https://github.com/LMS1229)|:|백준|[프로필](https://www.acmicpc.net/user/asker5325)||
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mentee|김성현|김영오|김한수|김호준|[박새결](https://github.com/psg9790)|
-|[허경환](https://github.com/hkh1284)|박세연|[박정호](https://www.acmicpc.net/user/jhp98)|임강호|조동준|조상현|
+|Leader|[이민석](https://github.com/LMS1229)|:|백준|[프로필](https://www.acmicpc.net/user/asker5325)|
+|:---:|:---:|:---:|:---:|:---:|
+|Mentee|김성현|김한수|김호준|[박새결](https://github.com/psg9790)|
+||박세연|임강호|조동준||
 
 ### Alogorim 세미나 진행현황
 💯매주 월요일 오후 4시(16시) 💯 <br>
@@ -63,16 +63,12 @@
 |    Name    | Pre | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 |
 | :--------: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :---: | :---: |
 | **김성현** |        |       |       |       |       |       |       |      |      |      |
-| **김영오** |        |       |       |       |       |       |       |      |      |      |
 | **김한수** |        |       |       |       |       |       |       |      |      |      |
 | **김호준** |        |       |       |       |       |       |       |      |      |      |
 | **박새결** |        |       |       |       |       |       |       |      |      |      |
-| **허경환** |        |       |       |       |       |       |       |      |      |      |
 | **박세연** |        |       |       |       |       |       |       |      |      |      |
-| **박정호** |        |       |       |       |       |       |       |      |      |      |
 | **임강호** |        |       |       |       |       |       |       |      |      |      |
 | **조동준** |        |       |       |       |       |       |       |      |      |      |
-| **조상현** |        |       |       |       |       |       |       |      |      |      |
 
 
 ### 💯👉There is 4 Level Algorithm👈💯
