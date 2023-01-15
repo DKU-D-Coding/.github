@@ -4,12 +4,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDKU-D-Coding&count_bg=%235B5A59&title_bg=%23716A6A&icon=github.svg&icon_color=%23000000&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Organization Follow, Repository Star 한번씩 부탁드립니다~
-
-### D-Coding 스터디 개최 및 총괄 관리자 : [박찬진](https://github.com/developerChans) <br>
+### Organization Follow, 각자 멘토링하시는 Repository Star 한번씩 부탁드립니다~
 
 ## Member
 
+### D-Coding 스터디 개최 및 총괄 관리자 : [박찬진](https://github.com/developerChans) 
+
+<br>
 
 ### Frontend React Library Study
 |Mento|[황준일](https://github.com/JunilHwang)||||
@@ -57,6 +58,10 @@
 |:---:|:---:|:---:|:---:|:---:|
 |Mentee|김성현|김한수|김호준|[박새결](https://github.com/psg9790)|
 ||박세연|임강호|조동준||
+
+### 알고리즘 책 추천 (광고아님!)
+[프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 세트](http://www.yes24.com/Product/Goods/8006522) <br>
+[Introduction to Algorithms](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=43636357) <br>
 
 ### Alogorim 세미나 진행현황
 💯매주 월요일 오후 4시(16시) 💯 <br>
