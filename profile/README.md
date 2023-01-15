@@ -37,7 +37,7 @@
 ### 👉[Backend Docs](https://prism-safflower-b2c.notion.site/8cd668e0a08748a8a366f2a0cd7a9923)👈
 
 ## 필독!!
-## 👉[Alogrithm Feedback 요청 방식]()👈
+## 👉[Alogrithm Feedback 요청 방식](https://github.com/DKU-D-Coding/.github/blob/main/profile/AlgorithmPRrule.md)👈
 ## 👉[React/Spring JPA Project Study 과제 제출 방식]()👈
 
 ## 1. Algorithm 
