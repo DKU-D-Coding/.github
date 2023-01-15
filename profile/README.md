@@ -1,11 +1,15 @@
 # Dankook Univ. D-Coding Study Group
 
 현재기수 1기 <br> <br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDKU-D-Coding&count_bg=%235B5A59&title_bg=%23716A6A&icon=github.svg&icon_color=%23000000&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Organization Follow, Repository Star 한번씩 부탁드립니다~
 
+### D-Coding 스터디 개최 및 총괄 관리자 : [박찬진](https://github.com/developerChans) <br>
+
 ## Member
+
 
 ### Frontend React Library Study
 |Mento|[황준일](https://github.com/JunilHwang)||||
