@@ -56,7 +56,7 @@
 
 |Leader|[이민석](https://github.com/LMS1229)|:|백준|[프로필](https://www.acmicpc.net/user/asker5325)|
 |:---:|:---:|:---:|:---:|:---:|
-|Mentee|김성현|김한수|김호준|[박새결](https://github.com/psg9790)|
+|Mentee|김성현|김한수|김호준||
 ||박세연|임강호|조동준||
 
 ### 알고리즘 책 추천 (광고아님!)
