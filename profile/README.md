@@ -49,7 +49,7 @@
 
 |Mento|[이민석](https://github.com/LMS1229)|:|백준|[프로필](https://www.acmicpc.net/user/asker5325)||
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Mentee|김성현|김한수|박새결|박세연|윤태현|
+|Mentee|김성현|김한수||박세연|윤태현|
 ||이기윤|임강호|정유빈|조동준|조상현|
 
 ### Algorithm Seminar
