@@ -121,9 +121,7 @@ Pull Request 제목은 {이름}_{문제번호} 로 등록하고, PR 내용에는
 
 
 ### Project 완료 팀
-
-스터디 완료
-<br>
+[프로젝트 organization](https://github.com/DKU-D-Coding-teams)
 
 |team||||
 |:---:|:---:|:---:|:---:|
